@@ -3,7 +3,7 @@
 This repository stores materials referenced in my CV. It centralizes documents that readers, reviewers, or prospective advisors may want to access and that are not present in other repositories or websites.
 
 ## Repository structure
-- **projects/** – First projects done, previously to start using GitHub for script and data tracking
+- **projects/** – Projects completed before I started using GitHub for tracking scripts and data.
 - **posters/** – Research posters and presentation materials corresponding to items listed in the CV.
 
 ## Intended use
